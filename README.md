@@ -3,7 +3,7 @@
 [![Profile](https://visitor-badge.glitch.me/badge?page_id=TamaraMalakhova.profileviews-badge)](https://github.com/TamaraMalakhova)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tamara-malakhova/)
 
-<img align="right" alt="GIF" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/code.gif" width="315" height="203" />
+<img align="right" alt="code_gif" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/code.gif" width="210" height="135" />
 
 Hi, I'm Tamara, a mobile developer from Kaliningrad, Russia. I really like creating new mobile apps with using technology React Native. Now I am focused in increasing my knowledge in native development of mobile apps.
 
