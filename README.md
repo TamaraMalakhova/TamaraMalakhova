@@ -2,6 +2,7 @@
 
 [![Profile](https://visitor-badge.glitch.me/badge?page_id=TamaraMalakhova.profileviews-badge)](https://github.com/TamaraMalakhova)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tamara-malakhova/)
+[![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/t_malakhova)
 
 <img align="right" alt="code_gif" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/code.gif" width="210" height="135" />
 
