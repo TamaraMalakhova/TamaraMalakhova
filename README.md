@@ -7,7 +7,7 @@ Hi, I'm Tamara, a mobile developer from Kaliningrad, Russia. I really like creat
 
 - 📫 How to reach me **malahova-tamara@mail.ru**
 
-<img align="right" alt="GIF" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/code.gif" width="450" height="290" />
+<img align="right" alt="GIF" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/code.gif" width="450" height="290" />
 
 # Languages and Tools:
 
