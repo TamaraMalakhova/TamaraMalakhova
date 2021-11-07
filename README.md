@@ -1,5 +1,6 @@
 ### Hello everyone! I am Tamara Malakhova from Russia 👋
 
+[![Profile](https://visitor-badge.glitch.me/badge?page_id=TamaraMalakhova.profileviews-badge
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tamara-malakhova/)
 
 # Languages and Tools:
