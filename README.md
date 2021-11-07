@@ -5,7 +5,7 @@
 
 Hi, I'm Tamara, a mobile developer from Kaliningrad, Russia. I really like creating new mobile apps with using technology React Native. Now I am focused in increasing my knowledge in native development of mobile apps.
 
-- 📫 How to reach me **malahova-tamara@mail.com**
+- 📫 How to reach me **malahova-tamara@mail.ru**
 
 # Languages and Tools:
 
