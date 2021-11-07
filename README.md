@@ -5,17 +5,18 @@
 # Languages and Tools:
 
 
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/TS_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/JS_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_native_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/redux_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/git_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/graphQL_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/vscode_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/Xcode_logo.png" />
-<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/android_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/TS_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/JS_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_native_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/redux_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/git_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/graphQL_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/vscode_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/Xcode_logo.png" />
+<img align="left" width="30px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/android_logo.png" />
 
+<br>
 
 # My Certificates
 
