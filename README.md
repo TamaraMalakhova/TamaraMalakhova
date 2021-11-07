@@ -6,7 +6,7 @@
 
 <details> <summary>:zap: Udemy Certificates </summary>
 
- [⚡Certificate](https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/React_Native_certificate.jpeg)
+ [Certificate](https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/React_Native_certificate.jpeg)
 <br>
 
 
