@@ -2,6 +2,21 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tamara-malakhova/)
 
+# Languages and Tools:
+
+
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/TS_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/JS_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_native_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/redux_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/react_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/git_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/graphQL_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/vscode_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/Xcode_logo.png" />
+<img align="left" width="26px" src="https://github.com/TamaraMalakhova/TamaraMalakhova/blob/main/android_logo.png" />
+
+
 # My Certificates
 
 <details> <summary>:zap: Udemy Certificates </summary>
